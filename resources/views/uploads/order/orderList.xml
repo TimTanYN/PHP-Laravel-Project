@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+use Illuminate\Support\Facades\Response;
+use App\Models\Order; 
+use XMLWriter;
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+<?xml-stylesheet type="text/xsl" href="orderList.xsl"?>
+
+Route::get('/orderList/xml', function() {
+    $orders = Order::all();
+
+    $xml = new XMLWriter();
+    $xml->openMemory();
+    $xml->startDocument();
+    $xml->startElement('orders');
+    foreach($orders as $order) {
+        $xml->startElement('order');
+        $xml->writeAttribute('order_id', $order->order_id);
+        $xml->writeAttribute('customer_id', $orders->customer_id);
+        $xml->writeAttribute('created_at', $orders->created_at);
+        $xml->writeAttribute('updated_at', $orders->updated_at);
+        $xml->writeAttribute('total', $orders->total);
+        $xml->writeAttribute('paymentMethod', $orders->paymentMethod);
+        $xml->endElement();
+    }
+    $xml->endElement();
+    $xml->endDocument();
+
+    $content = $xml->outputMemory();
+    $xml = null;
+
+    return response($content)->header('Content-Type', 'text/xml');
+});

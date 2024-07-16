@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faqs>
+    <faq>
+        <question>Why ticket reservation via online is not working for me anymore?</question>
+        <answer>We regret that the online ticket reservation service is no longer available.</answer>
+    </faq>
+    <faq>
+        <question>For "Children" ticket , what is the age range?</question>
+        <answer>Children aged from 4 to 12 years old based on Date of Birth.</answer>
+    </faq>
+    <faq>
+        <question>Can I enjoy the students rate with my student ID even I am an International University student?</question>
+        <answer>Yes , please verify your identify by presenting your student ID at our counter.</answer>
+    </faq>
+    <faq>
+        <question>How long will a movie will be listed on GTV?</question>
+        <answer>A movie will be listed at least for 3 weeks , depends on market demand</answer>
+    </faq>
+    <faq>
+        <question>My children are aged below 13 years old. Can I bring them to watch movie that are categorized as 'P13'?</question>
+        <answer>Yes , children below 13 years old are allowed to watch with parent guidance.</answer>
+    </faq>
+    <faq>
+        <question>How long in advance do I need, in order to place a booking for a hall?</question>
+        <answer>Required 2 weeks in advance. The selection of movie , location and date is following to availability.</answer>
+    </faq>
+    <!-- Add more FAQ items as needed -->
+</faqs>

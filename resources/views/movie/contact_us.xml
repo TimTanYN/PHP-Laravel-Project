@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+  <title>Contact Us</title>
+  <content>
+    <address>
+      <name>Timeless Cinema House</name>
+      <street>1234 Main St</street>
+      <city>Anytown</city>
+      <state>CA</state>
+      <zip>12345</zip>
+      <country>USA</country>
+    </address>
+    <phone>+1-234-567-8900</phone>
+    <email>TCHCinema@example.com</email>
+  </content>
+</page>

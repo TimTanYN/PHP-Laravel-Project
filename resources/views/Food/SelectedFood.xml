@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foods>
+    @foreach($selectedFoods as $food)
+        <food>
+            <name>{{ $food->name }}</name>
+            <price>{{ $food->price }}</price>
+        </food>
+    @endforeach
+</foods>

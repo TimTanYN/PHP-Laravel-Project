@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Practical%203C%20-%20Laravel/laravel/movieSystem/app/Http/Controllers/RegisterController.php</file>
+            <file>file:/E:/Practical%203C%20-%20Laravel/laravel/movieSystem/app/Http/Controllers/StaffController.php</file>
+            <file>file:/E:/Practical%203C%20-%20Laravel/laravel/movieSystem/app/Http/Controllers/LoginController.php</file>
+            <file>file:/E:/Practical%203C%20-%20Laravel/laravel/movieSystem/resources/views/movie/hall.blade.php</file>
+            <file>file:/E:/Practical%203C%20-%20Laravel/laravel/movieSystem/app/Reward/FreeTicketReward.php</file>
+            <file>file:/E:/Practical%203C%20-%20Laravel/laravel/movieSystem/resources/views/BackEnd/Food/ShowFoodList.blade.php</file>
+            <file>file:/E:/Practical%203C%20-%20Laravel/laravel/movieSystem/app/Http/Controllers/TicketController.php</file>
+            <file>file:/E:/Practical%203C%20-%20Laravel/laravel/movieSystem/app/Http/Controllers/CustomerController.php</file>
+            <file>file:/E:/Practical%203C%20-%20Laravel/laravel/movieSystem/resources/views/customer/customerEdit.blade.php</file>
+            <file>file:/E:/Practical%203C%20-%20Laravel/laravel/movieSystem/app/Http/Controllers/RewardController.php</file>
+            <file>file:/E:/Practical%203C%20-%20Laravel/laravel/movieSystem/app/Http/Controllers/MovieController.php</file>
+            <file>file:/E:/Practical%203C%20-%20Laravel/laravel/movieSystem/app/Http/Controllers/FoodController.php</file>
+            <file>file:/E:/Practical%203C%20-%20Laravel/laravel/movieSystem/resources/views/movie/seat.blade.php</file>
+            <file>file:/E:/Practical%203C%20-%20Laravel/laravel/movieSystem/resources/views/Ticket/ShowTicket.blade.php</file>
+            <file>file:/E:/Practical%203C%20-%20Laravel/laravel/movieSystem/app/Http/Controllers/HallController.php</file>
+            <file>file:/E:/Practical%203C%20-%20Laravel/laravel/movieSystem/resources/views/Food/ShowFoodFrontEnd.blade.php</file>
+            <file>file:/E:/Practical%203C%20-%20Laravel/laravel/movieSystem/resources/views/backendNavigation.php</file>
+            <file>file:/E:/Practical%203C%20-%20Laravel/laravel/movieSystem/app/Reward/DiscountReward.php</file>
+            <file>file:/E:/Practical%203C%20-%20Laravel/laravel/movieSystem/routes/api.php</file>
+            <file>file:/E:/Practical%203C%20-%20Laravel/laravel/movieSystem/app/Http/Controllers/OrderController.php</file>
+            <file>file:/E:/Practical%203C%20-%20Laravel/laravel/movieSystem/routes/web.php</file>
+            <file>file:/E:/Practical%203C%20-%20Laravel/laravel/movieSystem/resources/views/Ticket/ShowTicketList.blade.php</file>
+            <file>file:/E:/Practical%203C%20-%20Laravel/laravel/movieSystem/resources/views/order/edit.blade.php</file>
+            <file>file:/E:/Practical%203C%20-%20Laravel/laravel/movieSystem/app/Http/Controllers/SeatController.php</file>
+        </group>
+    </open-files>
+</project-private>
