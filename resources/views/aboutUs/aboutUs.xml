@@ -1,0 +1,30 @@
+<aboutus>
+  <name>Company Name</name>
+  <address>
+    <street>123 Main Street</street>
+    <city>City</city>
+    <state>State</state>
+    <country>Country</country>
+  </address>
+  <contact>
+    <phone>123-456-7890</phone>
+    <email>info@example.com</email>
+  </contact>
+  <description>
+    Welcome to our company! We provide top-quality services to our clients and strive for excellence in everything we do.
+  </description>
+  <services>
+    <service>
+      <name>Service 1</name>
+      <description>PlayHalls, specially designed for families with kids;</description>
+    </service>
+    <service>
+      <name>Service 2</name>
+      <description>BIG Screens, complete with big format screens and spatial, crisp audio;</description>
+    </service>
+    <service>
+      <name>Service 3</name>
+      <description>Happy Food Combo; a lively space for you to satisfy your cravings while catching up with your loved ones, and perfect for some ‘me’ time.</description>
+    </service>
+  </services>
+</aboutus>
